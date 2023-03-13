@@ -1,1 +1,2 @@
-VimCrypt~03!âªÿÑÀå.Â¦O[l›<_å/%3·-×SZ§ž-‹ÚyîÐSiÞþv"Ú¡HÖÏ×Û¼á´°±dÍ?Éd
+#!/bin/bash
+grep -i "^[a-z]" /etc/ssh/sshd_config
